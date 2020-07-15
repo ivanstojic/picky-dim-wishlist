@@ -1,0 +1,5 @@
+title: Forecast's wishlist for picky people
+description: This wishlist aims to be smaller in size and more picky, letting you know that an item is particularly good for PvP or PvE. I try to pick a small number of highly selective items.
+
+// Falling Guillotine with max damage and faster charge
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
