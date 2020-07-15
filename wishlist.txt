@@ -1,5 +1,16 @@
 title: Forecast's wishlist for picky people
 description: This wishlist aims to be smaller in size and more picky, letting you know that an item is particularly good for PvP or PvE. I try to pick a small number of highly selective items.
 
-// Falling Guillotine with max damage and faster charge
+// Falling Guillotine: max damage and faster charge
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+
+// Cold Denial: max range, range mw and stability perks
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2387244414,460017080,2697220197
+
+// Well known fixed rolls
+// The Mountaintop
+dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994,1154004463
+// The Recluse
+dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624
+// Felwinter's
+dimwishlist:item=1179141605&perks=1047830412,3142289711,706527188,47981717,2697220197
